@@ -16,7 +16,7 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of the 
 - Visualize survival rates based on various features (e.g., gender, class, age)  
 - Derive actionable insights from the dataset for potential predictive modeling  
 
-## 🔍 Questions Answered
+## 🔍 Insights
 
 The analysis focuses on answering most insightful data-driven questions such as:
 
@@ -49,9 +49,4 @@ These help in better understanding patterns and distributions in the dataset.
 
 
 
-## 📫 Contact
 
-For inquiries or collaboration:
-
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- Email: your.email@example.com  
