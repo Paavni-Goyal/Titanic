@@ -1,4 +1,4 @@
-# 🛳️ Titanic Dataset - Exploratory Data Analysis (EDA)
+# 🛳️ Titanic Dataset - Exploratory Data Analysis
 
 This repository contains a comprehensive Exploratory Data Analysis (EDA) of the famous Titanic dataset. The objective is to understand patterns and relationships within the data that influenced passenger survival. The project includes detailed visualizations, statistical summaries, and a question-answer document derived from the analysis.
 
